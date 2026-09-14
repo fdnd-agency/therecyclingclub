@@ -1,0 +1,23 @@
+title: 'The Recycling Club'
+client: 'Christiaan van Dokkum'
+status: 'active'
+years: [1]
+main_link: ''
+dev_link: ''
+tech_stack: ['HTML', 'CSS', 'JavaScript']
+
+team:
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
+  - name: ''
+    github: ''
